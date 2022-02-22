@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "firstName": "Tin",
+      "lastName": "Truong",
+      "email": "tintt_tts@rikkeisoft.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 1
+    },
+    {
+      "firstName": "Tin",
+      "lastName": "Truong",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 2
+    },
+    {
+      "firstName": "Tin",
+      "lastName": "Truong",
+      "email": "abc1@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 3
+    }
+  ]
+}
